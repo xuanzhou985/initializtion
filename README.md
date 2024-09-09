@@ -1,0 +1,2 @@
+# initializtion
+personal introduction
